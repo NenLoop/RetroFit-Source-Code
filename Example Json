@@ -1,44 +1,45 @@
 {
-   "coord": {
-      "lon": 7.367,
-      "lat": 45.133
-   },
-   "weather": [
-      {
-         "id": 501,
-         "main": "Rain",
-         "description": "moderate rain",
-         "icon": "10d"
-      }
-   ],
-   "base": "stations",
-   "main": {
-      "temp": 284.2,
-      "feels_like": 282.93,
-      "temp_min": 283.06,
-      "temp_max": 286.82,
-      "pressure": 1021,
-      "humidity": 60,
-   },
-   "visibility": 10000,
-   "wind": {
-      "speed": 4.09,
-      "deg": 121,
-      "gust": 3.47
-   },
-   "clouds": {
-      "all": 83
-   },
-   "dt": 1726660758,
-   "sys": {
-      "type": 1,
-      "id": 6736,
-      "country": "IT",
-      "sunrise": 1726636384,
-      "sunset": 1726680975
-   },
-   "timezone": 7200,
-   "id": 3165523,
-   "name": "Province of Turin",
-   "cod": 200
-}       
+    "coord": {
+        "lon": 125.6128,
+        "lat": 7.0731
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 32.05,
+        "feels_like": 36.59,
+        "temp_min": 32.05,
+        "temp_max": 32.05,
+        "pressure": 1006,
+        "humidity": 58,
+        "sea_level": 1006,
+        "grnd_level": 1006
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.03,
+        "deg": 40
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1733725798,
+    "sys": {
+        "type": 1,
+        "id": 8154,
+        "country": "PH",
+        "sunrise": 1733693902,
+        "sunset": 1733736101
+    },
+    "timezone": 28800,
+    "id": 1715348,
+    "name": "Davao City",
+    "cod": 200
+}
