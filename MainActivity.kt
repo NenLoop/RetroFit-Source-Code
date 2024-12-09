@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
             if(response.isSuccessful && response.body() != null) {
                 withContext(Dispatchers.Main) {
 
-                    binding.tvTemp.text = " this is temp ${response.body()!!.main.temp}"
+                    binding.tvTemp.text = " this is temp ${response.body()!!.main.temp} °C"
 
 
                 }
