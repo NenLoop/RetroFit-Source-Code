@@ -1,0 +1,8 @@
+REST request - https://api.openweathermap.org/data/2.5/weather?q=davao city&units=metric&appid=62e676ea996e4f2bc10dfbed26c2a53f
+
+q = city
+
+units = metric
+
+appId = 62e676ea996e4f2bc10dfbed26c2a53f
+
